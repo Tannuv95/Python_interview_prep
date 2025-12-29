@@ -46,7 +46,9 @@ def intersection_optimized(a, b):
         return [x for x in set_a if x in set_b]
     else:
         return [x for x in set_b if x in set_a]
-
+        
+def intersection(a, b):
+    return list(set(a).intersection(b))
 
 # --------------------------------------------------
 # Example Usage
@@ -59,3 +61,5 @@ if __name__ == "__main__":
     print("Brute Force:", intersection_bruteforce(A, B))
     print("List Comprehension:", intersection_list_comprehension(A, B))
     print("Optimized:", intersection_optimized(A, B))
+    print("built_in:", intersection(A, B))
+
