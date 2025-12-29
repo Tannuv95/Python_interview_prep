@@ -64,7 +64,7 @@ Online platforms (LeetCode, HackerRank, DataLemur)
 
 Clone the repository:
 
--- git clone https://github.com/your-username/Python_interview_prep.git
+git clone https://github.com/your-username/Python_interview_prep.git
 
 
 Navigate to any Day_X folder
