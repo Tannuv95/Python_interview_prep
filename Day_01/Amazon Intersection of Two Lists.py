@@ -1,7 +1,7 @@
+# Intersection of Two Lists  
+### Amazon Python Interview Question
 
----
-
-## 🐍 `Day_01/solution.py`
+## 🐍 `Day_01/amazon.py`
 
 ```python
 """
