@@ -1,4 +1,4 @@
-🐍 Python Interview Prep (Data Science)
+🐍 # Python Interview Prep (Data Science)
 
 This repository is part of my daily interview preparation journey for Data Science / Data Analyst roles.
 
@@ -48,24 +48,8 @@ Data manipulation problems
 Real-world data science interview questions
 
 📁 Repository Structure
-Python_interview_prep/
-│
-├── Day_01/
-│   ├── question.md
-│   └── solution.py
-│
-├── Day_02/
-│   ├── question.md
-│   └── solution.py
-│
-├── ...
-│
-└── README.md
 
-
-(Structure may evolve as complexity increases)
-
-🚀 Why This Repository?
+🚀 # Why This Repository?
 
 📈 Builds daily consistency
 
