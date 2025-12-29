@@ -1,62 +1,152 @@
-🐍 # Python Interview Prep (Data Science)
+🐍 Python Interview Practice
 
-This repository is part of my daily interview preparation journey for Data Science / Data Analyst roles.
+This repository contains my Python interview practice, created to strengthen core Python concepts and prepare for Data Analyst / Data Scientist interviews. It focuses on solving one Python interview question per day, especially problems relevant to data analysis and real-world scenarios.
 
-📌 Goal:
-To strengthen Python problem-solving skills by solving one data science–oriented Python interview question every day and sharing clean, well-documented solutions.
+📌 Purpose of This Repository
 
-📅 Daily Challenge Format
+Build strong fundamentals in Python
 
-✅ 1 Python interview question per day
+Practice writing clean, readable, and efficient code
 
-🎯 Questions focus on data science use cases
+Prepare for Python-based technical interviews
 
-🧠 Emphasis on logic, efficiency, and clarity
+Improve logical thinking and problem-solving skills
 
-✍️ Each solution includes:
+Strengthen Python usage for data science workflows
 
-Problem statement
+🧠 Topics Covered
 
-Approach / explanation
+The repository includes practice problems on:
 
-Python code
+Python basics (variables, data types, input/output)
 
-(Optional) Time & space complexity
+Conditional statements and loops
 
-🧩 Topics Covered
+Functions and recursion
 
-Python fundamentals
+Lists, tuples, sets, and dictionaries
 
-Data structures (lists, dicts, sets, tuples)
+String manipulation
 
-Strings & arrays
+List and dictionary comprehensions
 
-Loops & conditionals
+Sorting and searching techniques
 
-Functions & recursion
+Error handling and edge cases
 
-List / dictionary comprehensions
+Time and space complexity analysis
 
-Exception handling
+Interview-style Python problems for data science
 
-Object-Oriented Programming (OOP)
+Python logic questions from real interview platforms
 
-NumPy & Pandas basics
+📅 Daily Practice Log
+Day 1
 
-Data manipulation problems
+Python Interview Question
+Topics: Lists, Loops, Conditionals
+Source: Interview-style problem
 
-Real-world data science interview questions
+Day 2
+
+Python Data Manipulation Question
+Topics: Dictionaries, Frequency Count
+Source: LeetCode / DataLemur
+
+Day 3
+
+Python String Processing Problem
+Topics: Strings, Edge Cases
+Source: Ace the Data Science Interview
+
+Day 4
+
+Python Logic-Based Problem
+Topics: Functions, Time Complexity
+Source: FAANG-style interview question
+
+Day 5
+
+Python Data Science Question
+Topics: Lists, Aggregation, Optimization
+Source: DataLemur
+
+(More days will be added consistently)
 
 📁 Repository Structure
+Python_interview_prep/
+│
+├── Day_01/
+│   ├── question.md
+│   └── solution.py
+│
+├── Day_02/
+│   ├── question.md
+│   └── solution.py
+│
+├── ...
+│
+└── README.md
 
-🚀 # Why This Repository?
+🛠️ Tools & Environment
 
-📈 Builds daily consistency
+Language: Python 3
 
-🧪 Focuses on interview-relevant problems
+Tools used:
 
-🧑‍💻 Improves Python coding confidence
+VS Code
 
-📊 Tailored for Data Science interviews
+Jupyter Notebook
 
-🌱 Helps track learning progress over time
+Online platforms (LeetCode, HackerRank, DataLemur)
+
+🚀 How to Use This Repository
+
+Clone the repository:
+
+git clone https://github.com/your-username/Python_interview_prep.git
+
+
+Navigate to any Day_X folder
+
+Read the problem statement
+
+Try solving it yourself
+
+Compare with the provided solution
+
+Modify the code to explore alternative approaches
+
+📈 Learning Outcome
+
+By working through this repository, you will:
+
+Gain confidence in solving Python interview questions
+
+Improve logical and analytical thinking
+
+Write cleaner and more optimized Python code
+
+Be better prepared for Python rounds in data science interviews
+
+📌 Future Improvements
+
+Add NumPy and Pandas-based questions
+
+Include detailed explanations for each solution
+
+Add difficulty levels (Easy / Medium / Hard)
+
+Compare multiple solution approaches
+
+Add mock interview questions
+
+🤝 Contributions
+
+This is a personal learning repository, but suggestions, optimizations, and alternative solutions are welcome.
+
+📬 Contact
+
+If you have feedback or want to discuss Python or data science interview prep, feel free to connect.
+
+Happy Coding! 🐍💻📊
